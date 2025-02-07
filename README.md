@@ -1,6 +1,6 @@
 # 🚗 Road Accident Severity Analysis & Prediction
 
-![Road Safety](road accident.jpg)
+![Road Safety](road_accident.jpg)
 ## 📌 Overview
 This project analyzes **road accident severity** using a dataset containing **132,000 records and 30 features**.  
 The goal is to **understand accident patterns, identify key factors affecting severity, and build a machine learning model** to predict accident severity.
