@@ -1,7 +1,6 @@
 # 🚗 Road Accident Severity Analysis & Prediction
 
-![Road Safety]((https://www.google.com/imgres?q=road%20accident%20images&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fon-car-crash-traffic-accident-260nw-1721662801.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftraffic-accident&docid=HpIOStpTpoxtBM&tbnid=1wdD652YG6kT3M&vet=12ahUKEwj5i9Oi0bGLAxWI-DgGHTapCvA4ChAzegQIDBAA..i&w=462&h=280&hcb=2&ved=2ahUKEwj5i9Oi0bGLAxWI-DgGHTapCvA4ChAzegQIDBAA)
-
+![Road Safety](road accident.jpg)
 ## 📌 Overview
 This project analyzes **road accident severity** using a dataset containing **132,000 records and 30 features**.  
 The goal is to **understand accident patterns, identify key factors affecting severity, and build a machine learning model** to predict accident severity.
